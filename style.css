@@ -1,0 +1,84 @@
+ /* Details of the body */
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: white;
+}
+
+div {
+  width: 555px;
+  margin: auto;  
+}
+
+ /* Heading 1 */
+h1{
+  font-size: 28px;
+  color: black
+}
+
+ /* Heading 2 */
+h2{
+  font-size: 28px;
+  color: black
+}
+
+ /* Heading 3 */  
+h3{
+  font-size: 28px;
+  color: black
+}
+
+/* date details*/
+.date {
+  font-size: 11px;
+  color: grey;
+  margin-top: 10px;
+}
+
+/* author details */
+.author{
+  font-size: 12px;
+  font-weight: bold;
+  color: black;
+  margin-top: 0px;
+}
+
+/* author link & details */
+.reporterlink {
+  font-size: 11px;
+  color: grey;
+  line-height: 0.5;  
+}
+
+/* Images */  
+img{
+  width: 555px;
+  height: auto;
+}
+
+/* Image 1 description */
+.description1 {
+  font-size: 11px;
+  color: grey;
+  margin-top: 4px;
+}
+
+/* visited link */
+a:visited {
+  color: rgb(14, 14, 69);
+}
+  
+/* mouse over link */
+a:hover {
+  color: red;
+}
+  
+/* selected link */
+a:active {
+  color: yellow;
+}
+
+
+
+
+
+
